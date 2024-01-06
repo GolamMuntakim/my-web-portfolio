@@ -93,3 +93,6 @@ nav a{
     background-color: #FFF8F3;
     margin: 130 0;
 }
+main{
+    max-width: 1140;
+}
